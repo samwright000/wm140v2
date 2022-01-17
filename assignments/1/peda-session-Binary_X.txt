@@ -1,0 +1,3 @@
+break strcmp@plt
+break main
+
